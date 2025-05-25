@@ -1,5 +1,10 @@
 # Date Tools - Free Online Date Calculator
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/erikthiart/datetools)](https://github.com/erikthiart/datetools)
+
 Welcome to **Date Tools**, a free online date calculator that helps you:
 
 - Add or subtract days from any date.
@@ -20,7 +25,7 @@ Welcome to **Date Tools**, a free online date calculator that helps you:
 
 Access the app here: [Date Tools](https://datetools.streamlit.app)
 
-![App Screenshot](https://datetools.streamlit.app/screenshots/app_overview.jpg)
+![App Screenshot](./screenshots/app_overview.jpg)
 
 ## How to Use
 
