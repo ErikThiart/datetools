@@ -587,12 +587,12 @@ st.markdown("""
     <h3>🚀 Created by <a href="https://erikthiart.com/" target="_blank" style="color: #1e88e5; text-decoration: none;">Erik Thiart</a></h3>
     <p>Making date calculations simple and accurate</p>
     <p style="margin-top: 20px;">
-        <a href="https://twitter.com/intent/tweet?text=Just%20found%20this%20amazing%20Date%20Calculator!%20Add%20days,%20find%20durations,%20calculate%20business%20days%20and%20more.%20Check%20it%20out!&url=YOUR_STREAMLIT_URL" 
+        <a href="https://twitter.com/intent/tweet?text=Just%20found%20this%20amazing%20Date%20Calculator!%20Add%20days,%20find%20durations,%20calculate%20business%20days%20and%20more.%20Check%20it%20out!&url=https://datetools.streamlit.app/" 
            target="_blank" 
            style="background-color: #1DA1F2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 0 10px;">
            Share on Twitter
         </a>
-        <a href="https://www.linkedin.com/sharing/share-offsite/?url=YOUR_STREAMLIT_URL" 
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://datetools.streamlit.app/" 
            target="_blank" 
            style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 0 10px;">
            Share on LinkedIn
