@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# macOS system files
+.DS_Store
+
+# Test cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Ignore screenshots if needed
+# screenshots/
