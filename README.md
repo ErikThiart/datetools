@@ -47,7 +47,11 @@ This app was created by [Erik Thiart](https://erikthiart.com/), a developer pass
 
 ## Feedback and Support
 
-If you have any feedback or need support, feel free to reach out via [Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20Date%20Calculator!%20https://datetools.streamlit.app) or [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://datetools.streamlit.app).
+If you have any feedback or need support, feel free to reach out via:
+
+- [Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20Date%20Calculator!%20https://datetools.streamlit.app&via=erikthiart)
+- [Follow me on Twitter](https://twitter.com/erikthiart)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://datetools.streamlit.app)
 
 ---
 
